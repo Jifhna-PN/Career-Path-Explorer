@@ -31,17 +31,18 @@ Users can select the skills they already know and explore suitable career paths 
 
 ## Project Structure
 
+```text
 Career-Path-Explorer/
 │
 ├── src/
 │   └── app.py
-│
 ├── data/
 │   └── career_skills.csv
 │
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation and Setup
 
