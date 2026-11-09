@@ -1,0 +1,70 @@
+Career,Skill,Category,Level
+Data Scientist,Python,Programming,Beginner
+Data Scientist,SQL,Database,Beginner
+Data Scientist,Pandas,Data Science,Intermediate
+Data Scientist,NumPy,Data Science,Intermediate
+Data Scientist,Statistics,Mathematics,Intermediate
+Data Scientist,Matplotlib,Visualization,Beginner
+Data Scientist,Seaborn,Visualization,Beginner
+Data Scientist,Machine Learning,AI/ML,Intermediate
+Data Scientist,Scikit-learn,AI/ML,Intermediate
+Data Scientist,Data Visualization,Visualization,Intermediate
+Data Scientist,Deep Learning,AI/ML,Advanced
+Data Scientist,Git,Tools,Beginner
+Machine Learning Engineer,Python,Programming,Beginner
+Machine Learning Engineer,SQL,Database,Beginner
+Machine Learning Engineer,NumPy,Data Science,Intermediate
+Machine Learning Engineer,Pandas,Data Science,Intermediate
+Machine Learning Engineer,Statistics,Mathematics,Intermediate
+Machine Learning Engineer,Machine Learning,AI/ML,Intermediate
+Machine Learning Engineer,Scikit-learn,AI/ML,Intermediate
+Machine Learning Engineer,Deep Learning,AI/ML,Advanced
+Machine Learning Engineer,Docker,Deployment,Intermediate
+Machine Learning Engineer,Git,Tools,Beginner
+Machine Learning Engineer,Model Deployment,Deployment,Advanced
+Machine Learning Engineer,Cloud,Cloud,Intermediate
+AI Engineer,Python,Programming,Beginner
+AI Engineer,NumPy,Data Science,Intermediate
+AI Engineer,Pandas,Data Science,Intermediate
+AI Engineer,Machine Learning,AI/ML,Intermediate
+AI Engineer,Deep Learning,AI/ML,Advanced
+AI Engineer,Neural Networks,AI/ML,Advanced
+AI Engineer,NLP,AI/ML,Intermediate
+AI Engineer,Computer Vision,AI/ML,Intermediate
+AI Engineer,Scikit-learn,AI/ML,Intermediate
+AI Engineer,Git,Tools,Beginner
+AI Engineer,Docker,Deployment,Intermediate
+AI Engineer,Cloud,Cloud,Intermediate
+Data Engineer,Python,Programming,Beginner
+Data Engineer,SQL,Database,Beginner
+Data Engineer,Pandas,Data Science,Intermediate
+Data Engineer,ETL,Data Engineering,Intermediate
+Data Engineer,Data Cleaning,Data Engineering,Beginner
+Data Engineer,Data Warehousing,Data Engineering,Advanced
+Data Engineer,Apache Spark,Big Data,Advanced
+Data Engineer,Git,Tools,Beginner
+Data Engineer,Docker,Deployment,Intermediate
+Data Engineer,Cloud,Cloud,Intermediate
+Data Engineer,Database Management,Database,Intermediate
+Python Developer,Python,Programming,Beginner
+Python Developer,SQL,Database,Beginner
+Python Developer,Git,Tools,Beginner
+Python Developer,REST API,Development,Intermediate
+Python Developer,FastAPI,Development,Intermediate
+Python Developer,Flask,Development,Intermediate
+Python Developer,Django,Development,Intermediate
+Python Developer,Testing,Development,Intermediate
+Python Developer,File Handling,Python,Beginner
+Python Developer,Object-Oriented Programming,Programming,Intermediate
+Python Developer,Exception Handling,Python,Beginner
+Data Analyst,Python,Programming,Beginner
+Data Analyst,SQL,Database,Beginner
+Data Analyst,Pandas,Data Science,Intermediate
+Data Analyst,NumPy,Data Science,Beginner
+Data Analyst,Excel,Analytics,Beginner
+Data Analyst,Statistics,Mathematics,Intermediate
+Data Analyst,Matplotlib,Visualization,Beginner
+Data Analyst,Seaborn,Visualization,Beginner
+Data Analyst,Power BI,Business Intelligence,Intermediate
+Data Analyst,Data Visualization,Visualization,Intermediate
+Data Analyst,Data Cleaning,Data Science,Beginner
